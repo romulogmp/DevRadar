@@ -1,5 +1,5 @@
 ## Install
-Setup MongoDB and update the connection url with your `<username ` and `<password>` in the file `index.js`.  
+Setup MongoDB and update the connection url with your `<username> ` and `<password>` in the file `index.js`.  
 
 Install all dependcies and run the server with:
 ```bash
