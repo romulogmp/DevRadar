@@ -67,12 +67,11 @@ function UpdateForm({ onUpdateForm, onCancel, dev }) {
         </div>
         <div className="input-block">
           <label htmlFor="bio">Nova Bio</label>
-          <textarea
+          <input
             name="bio"
             id="bio"
             required
             value={bio}
-            rows="4"
             onChange={e => setBio(e.target.value)}
           />
         </div>
