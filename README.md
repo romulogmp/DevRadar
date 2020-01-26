@@ -30,7 +30,7 @@ yarn start
 <img align="center" src="./static/insertPage.PNG"></img>
 <br/>
 <p align="center"><strong>Edit Form</strong></p>
-<img align="center" src="./static/editForm.PNG"></img>
+<p align="center"><img align="center" src="./static/editForm.PNG"></img></p>
 
 **Mobile**: first, setup your server address on the file `src/services/api.js`, and then execute:
 ```bash
@@ -39,6 +39,7 @@ cd mobile
 yarn install
 yarn start
 ```
+<p align="center"><strong>Mobile - Real time update with WebScokets</strong></p>
 <img align="center" src="./static/mobile.gif"></img>
 
 ## Backend
