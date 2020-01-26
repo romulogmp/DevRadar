@@ -26,9 +26,10 @@ cd frontend
 yarn install
 yarn start
 ```
-<strong>Insert Devs Form</strong>
+<p align="center"><strong>Insert Devs Form</strong></p>
 <img align="center" src="./static/insertPage.PNG"></img>
-<strong>Edit Form</strong>
+<br/>
+<p align="center"><strong>Edit Form</strong></p>
 <img align="center" src="./static/editForm.PNG"></img>
 
 **Mobile**: first, setup your server address on the file `src/services/api.js`, and then execute:
