@@ -30,7 +30,7 @@ Developers storeds in the database:
 | ------------ | ------------------- | ------------------------------------- | ------------------- | ------------- |
 | ![GET]       | `/api/devs`         | List all Devs                         | **None**            | JSON/User     |
 | ![POST]      | `/api/devs`         | Insert a Dev on the Database          | JSON/git,techs,geo  | JSON/User     |
-| ![GET]       | `/api/devs/:github` | Return a specif Dev                   | Rout/github_username| JSON/User     |
+| ![GET]       | `/api/devs/:github` | Return a specific Dev                   | Rout/github_username| JSON/User     |
 | ![PUT]       | `/api/devs/:github` | Edit data from Dev                    | Rout + JSON/fields  | JSON/OK       |
 | ![DELETE]    | `/api/devs/:github` | Delete a record                       | Rout                | 200 OK        |
 
