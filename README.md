@@ -26,6 +26,11 @@ cd frontend
 yarn install
 yarn start
 ```
+<strong>Insert Devs Form</strong>
+<img align="center" src="./static/insertPage.png"></img>
+<strong>Edit Form</strong>
+<img align="center" src="./static/editForm.png"></img>
+
 **Mobile**: first, setup your server address on the file `src/services/api.js`, and then execute:
 ```bash
 yarn global add install expo-cli
@@ -33,6 +38,7 @@ cd mobile
 yarn install
 yarn start
 ```
+<img align="center" src="./static/mobile.gif"></img>
 
 ## Backend
 Check [backend/README.md](./backend) about the backend achtecture.
