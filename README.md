@@ -44,4 +44,4 @@ yarn start
 Check [backend/README.md](./backend) about the backend achtecture.
 
 ## Frontend
-Check [frontend/README.md](./frontend) abount the frontend patterns.
+Check [web/README.md](./frontend) abount the frontend patterns.
